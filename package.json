@@ -1,0 +1,12 @@
+{
+  "name": "genshin-card-bot",
+  "version": "1.0.0",
+  "description": "Genshin-inspired Discord collectible card game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
